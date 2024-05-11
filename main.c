@@ -2,7 +2,7 @@
 /**
   ******************************************************************************
   * @file           : main.c
-  * @brief          : Main program body
+  * @brief          : This project develops a CT scanning system using NTC thermal sensor, rotary encoder, stepper motor and Nucleo-F103RB board
   ******************************************************************************
   * @attention
   *
